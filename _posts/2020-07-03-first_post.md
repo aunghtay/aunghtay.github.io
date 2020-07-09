@@ -13,6 +13,11 @@ This is my first post.
 |Soluciones Cosmeticas SA de CV (Mexico)|Bersih Hand Sanitizer Gel Fragrance Free|
 |Tropicosmeticos SA de CV (Mexico)|Britz Hand Sanitizer Ethyl Alcohol 70%|
 |Eskbiochem SA de CV (Mexico)|Many (see FDA link)|
+|4E Global, SAPI de CV (Mexico)|Many (see FDA link)|
+|AAA Cosmetica (Mexico)|Many (see FDA link)|
+|DDI Multinacional SA de CV (Mexico)|Many (see FDA link)|
+|Limpo Quimicos SA de CV(Mexico)|Many (see FDA link)|
+|Liqesa Exportacion or Liq-E-S.A. de CV (Mexico)|Many (see FDA link)|
 
 > Tech CEO Apologizes After Viral Video Captures His Racist Rant At Asian Family
 > -- <cite>[Forbes article][3]</cite>
