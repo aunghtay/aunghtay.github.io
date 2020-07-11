@@ -25,7 +25,11 @@ This is my first post.
 > Brazilian press group will sue Bolsonaro for taking off his mask
 > -- <cite>[CNN][4]</cite>
 
+> Tucker Carlson's top writer resigns after secretly posting racist and sexist remarks in online forum
+> -- <cite>[CNN][5]</cite>
+
 [1]: https://www.fda.gov/drugs/drug-safety-and-availability/fda-updates-hand-sanitizers-methanol
 [2]: https://www.businesswire.com/news/home/20200702005613/en/
 [3]: https://www.forbes.com/sites/rachelsandler/2020/07/07/tech-ceo-apologizes-after-viral-video-captures-his-racist-rant-at-asian-family/#763ababe7d5a
 [4]: https://www.cnn.com/2020/07/08/americas/brazil-bolsonaro-press-covid-19-intl/index.html
+[5]: https://www.cnn.com/2020/07/10/media/tucker-carlson-writer-blake-neff/index.html
