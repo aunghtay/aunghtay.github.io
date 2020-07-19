@@ -4,7 +4,7 @@ This is my first post.
 
 
 > FDA is warning consumers and health care providers that the agency has seen a sharp increase in hand sanitizer products that are labeled to contain ethanol (also known as ethyl alcohol) but that have tested positive for methanol contamination. Methanol, or wood alcohol, is a substance that can be toxic when absorbed through the skin or ingested and can be life-threatening when ingested.
-> -- <cite>[FDA][1]</cite>
+> -- <cite>as of 07/15/2020 [FDA][1]</cite>
 
 |Company|Product|Additional Info|
 |-----|-----|-----|
@@ -21,6 +21,7 @@ This is my first post.
 |Maquiladora Miniara, SA de CV (Mexico)|Many (see FDA link)|
 |Yara Elena De La Garza Perez Nieto|DAESI hand sanitizer|
 |Real Clean Distribuciones SA de CV|(see FDA link)|
+|MXL Comercial SA de CV (Mexico)|(see FDA link)|
 
 > Tech CEO Apologizes After Viral Video Captures His Racist Rant At Asian Family
 > -- <cite>[Forbes article][3]</cite>
