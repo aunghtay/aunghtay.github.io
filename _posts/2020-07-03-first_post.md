@@ -4,9 +4,9 @@ This is my first post.
 
 
 > FDA is warning consumers and health care providers that the agency has seen a sharp increase in hand sanitizer products that are labeled to contain ethanol (also known as ethyl alcohol) but that have tested positive for methanol contamination. Methanol, or wood alcohol, is a substance that can be toxic when absorbed through the skin or ingested and can be life-threatening when ingested.
-> -- <cite>as of 07/28/2020 94 entries [FDA][1]</cite>
+> -- <cite>as of 07/31/2020 94 entries [FDA][1]</cite>
 
-|Company|Product|Additional Info|
+|Manufacturer|Product|Additional Info|
 |-----|-----|-----|
 |Grupo Insoma, S.A.P.I de CV (Mexico)|Hand sanitizer Gel Unscented 70% Alcohol|
 |Transliquid Technologies (Mexico)|Mystic Shield Protection hand sanitizer|The firm’s independent testing found the products contain undeclared methanol --<cite>-[Transliquid Technologies LLC][2]</cite>|
@@ -27,6 +27,10 @@ This is my first post.
 |Laboratorios Jaloma, SA de CV (Mexico)|(see FDA link)|
 |Leiper's Fork Distillery (Tennessee)|(see FDA link)|
 |Albek de Mexico, SA de CV (Mexico)|(see FDA link)|
+|Healthy Foods & Nutrition Lab de Mexico SA de CV (Mexico)||
+|Incredible Products SA de CV (Mexico)|(see FDA link)|
+|JG Atlas Comercios SA de CV (Mexico)|(see FDA link)|
+|Tritanium Labs USA LLC (location?)|(see FDA link)|
 
 > Tech CEO Apologizes After Viral Video Captures His Racist Rant At Asian Family
 > -- <cite>[Forbes article][3]</cite>
