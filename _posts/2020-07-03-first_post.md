@@ -4,7 +4,7 @@ This is my first post.
 
 
 > FDA is warning consumers and health care providers that the agency has seen a sharp increase in hand sanitizer products that are labeled to contain ethanol (also known as ethyl alcohol) but that have tested positive for methanol contamination. Methanol, or wood alcohol, is a substance that can be toxic when absorbed through the skin or ingested and can be life-threatening when ingested.
-> -- <cite>as of 07/31/2020 94 entries [FDA][1]</cite>
+> -- <cite>as of 08/03/2020 115 entries [FDA][1]</cite>
 
 |Manufacturer|Product|Additional Info|
 |-----|-----|-----|
@@ -31,6 +31,11 @@ This is my first post.
 |Incredible Products SA de CV (Mexico)|(see FDA link)|
 |JG Atlas Comercios SA de CV (Mexico)|(see FDA link)|
 |Tritanium Labs USA LLC (location?)|(see FDA link)|
+|Notarika SA de CV (Mexico)|(see FDA link)|
+|DEPQ Internacional S de RL de CV (Mexico)|(see FDA link)|
+|Quimica Magna de Mexico SA de CV (Mexico)|(see FDA link)|
+|Roque Plast SA de CV (Mexico)|(see FDA link)|
+|Spartan Chemical Co Inc. (Ohio)|(see FDA link)|
 
 > Tech CEO Apologizes After Viral Video Captures His Racist Rant At Asian Family
 > -- <cite>[Forbes article][3]</cite>
