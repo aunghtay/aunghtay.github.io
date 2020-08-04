@@ -27,7 +27,7 @@ This is my first post.
 |Laboratorios Jaloma, SA de CV (Mexico)|(see FDA link)|
 |Leiper's Fork Distillery (Tennessee)|(see FDA link)|
 |Albek de Mexico, SA de CV (Mexico)|(see FDA link)|
-|Healthy Foods & Nutrition Lab de Mexico SA de CV (Mexico)||
+|Healthy Foods & Nutrition Lab de Mexico SA de CV (Mexico)|see FDA link)|
 |Incredible Products SA de CV (Mexico)|(see FDA link)|
 |JG Atlas Comercios SA de CV (Mexico)|(see FDA link)|
 |Tritanium Labs USA LLC (location?)|(see FDA link)|
