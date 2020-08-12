@@ -4,7 +4,7 @@ This is my first post.
 
 
 > FDA is warning consumers and health care providers that the agency has seen a sharp increase in hand sanitizer products that are labeled to contain ethanol (also known as ethyl alcohol) but that have tested positive for methanol contamination. Methanol, or wood alcohol, is a substance that can be toxic when absorbed through the skin or ingested and can be life-threatening when ingested.
-> -- <cite>as of 08/06/2020 135 entries [FDA][1]</cite>
+> -- <cite>as of 08/11/2020 148 entries [FDA][1]</cite>
 
 |Manufacturer|Product|Additional Info|
 |-----|-----|-----|
@@ -42,6 +42,14 @@ This is my first post.
 |Grupo Insoma S.A.P.I de CV (Mexico)|(see FDA link)|
 |Ismar Soluciones Dinámicas S de RL de CV (Mexico)|(see FDA link)|
 |Noticias Mexico Hoy Grupo Multimedia (Mexico)|(see FDA link)|
+|Santa Cruz Biotechnology|Company tested product; ethanol alcohol level was subpotent; product voluntarily recalled lot BF12530 on 8/7/2020|
+|SG24 LLC|(see FDA link)|
+|Grupo Plast Y Kosas Sa De CV (Mexico)|(see FDA link)|
+|Open Book Extracts|(see FDA link)|
+|Plastico Las Palmas SA de CV|(see FDA link)|
+|Volu-Sol, Inc. (Utah)|(see FDA link)|
+|Yangzhou Olande Cosmetic Co. Ltd (China)|(see FDA link)|
+|Precision Analitica Integral SA de CV|(see FDA link)|
 
 > Tech CEO Apologizes After Viral Video Captures His Racist Rant At Asian Family
 > -- <cite>[Forbes article][3]</cite>
