@@ -65,6 +65,10 @@ This is my first post.
 |Industrias Cklass S de RL de CV|(see FDA link)|
 |Sck Zeta Dis Ticaret Pazarlama Ltd. (Turkey)|(see FDA link)|
 |Neoingenium Labs SA de CV Hand sanitizer (Mexico)|(see FDA link)|
+|Corporativo  Bureli SA de CV (Mexico)|(see FDA link)|
+|Rodriguez Fierro, Marco Antonio (Mexico)|(see FDA link)|
+|Soleo Cosmetic Co. Ltd. (Korea)|potential accidential ingestion (see FDA link)|
+|Inovaker Lab SA de CV|(see FDA link)|
 
 
 
